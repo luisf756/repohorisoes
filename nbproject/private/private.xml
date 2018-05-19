@@ -3,13 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Hogar/Documents/NetBeansProjects/proyectoLogin/web/login_usuario.xhtml</file>
-            <file>file:/C:/Users/Hogar/Documents/NetBeansProjects/proyectoLogin/src/java/aplicacion/controlador/LoginUsuarioBean.java</file>
-            <file>file:/C:/Users/Hogar/Documents/NetBeansProjects/proyectoLogin/src/java/aplicacion/entidades/Usuarios.java</file>
-            <file>file:/C:/Users/Hogar/Documents/NetBeansProjects/proyectoLogin/web/WEB-INF/faces-config.xml</file>
-            <file>file:/C:/Users/Hogar/Documents/NetBeansProjects/proyectoLogin/web/welcomePrimefaces.xhtml</file>
-            <file>file:/C:/Users/Hogar/Documents/NetBeansProjects/proyectoLogin/web/index.xhtml</file>
-            <file>file:/C:/Users/Hogar/Documents/NetBeansProjects/proyectoLogin/src/java/aplicacion/controlador/UsuariosFacade.java</file>
+            <file>file:/C:/Users/Hogar/Desktop/proyectoLogin/web/login_usuario.xhtml</file>
         </group>
     </open-files>
 </project-private>

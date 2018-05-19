@@ -8,12 +8,12 @@
     </h:head>
     <h:body>
         <h:form>
-            <p:growl id="growl" life="300"/>
+            <p:growl id="growl" life="300" />
             <h:panelGrid columns="2" id="hpgLogin">
                 <p:outputLabel value="Usuario: "/>
                 <p:inputText value="#{loginUsuarioBean.usuario}" rendered="true"/>
                 <p:outputLabel value="Contraseña: "/>
-                <p:inputText value="#{loginUsuarioBean.contraseña}" rendered="true"/>
+                <h:inputSecret value="#{loginUsuarioBean.contraseña}" rendered="true" />
                 <p:commandButton value="Ingresar" update="hpgLogin, growl" action="#{loginUsuarioBean.autentcar()}"/>
             </h:panelGrid>
         </h:form>
